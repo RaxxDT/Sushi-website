@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --constant-accents: rgb(57, 219, 74);
+  --minor-accents: rgb(62, 145, 134);
+  --text-colors-1: black;
+  --text-color-2: white;
+  --nav-bar-accents: rgb(235, 230, 230);
+  --common-font-family: "Montseratt", sans-serif;
+  --h1-font-size: 3rem;
+}

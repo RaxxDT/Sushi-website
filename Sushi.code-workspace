@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../Austin"
+	},
+	{
+		"path": "../../../Documents/My nearest mechanic"
+	},
+	{
+		"path": "../Drop down"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Sushi"
+  }
+}
