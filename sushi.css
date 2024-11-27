@@ -15,7 +15,7 @@ nav {
 }
 
 header {
-  z-index: 1;
+  z-index: 11;
   position: fixed;
   top: 0;
   padding: 20px;
@@ -173,7 +173,7 @@ main {
 .body-content {
   width: 90%;
   /* height: 45%; */
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin: 60px auto;
   display: flex;
   gap: 50px;
@@ -296,7 +296,7 @@ p {
   align-items: center;
   margin: auto;
   flex-direction: column;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 .sd {
@@ -349,7 +349,7 @@ p {
 
 .bag-icon {
   /* display: flex; */
-  background-color: green;
+  /* background-color: green; */
   flex-direction: row;
   /* margin: 20px 40px; */
   border-bottom-left-radius: 20px;
@@ -379,7 +379,7 @@ p {
 .icon-holder {
   width: 70px;
   height: 40px;
-  border: 1px solid green;
+  /* border: 1px solid green; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -444,7 +444,7 @@ p {
 }
 
 .chef-image {
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -465,7 +465,7 @@ p {
 }
 
 .chef-image-background {
-  border: 1px solid orange;
+  /* border: 1px solid orange; */
   background-color: var(--constant-accents);
   border-top-right-radius: 30px;
   border-top-left-radius: 30px;
@@ -510,7 +510,7 @@ p {
 
 .feedback {
   margin: auto;
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -528,16 +528,16 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 1px solid green;
+  /* border: 1px solid green; */
 }
 
 .note {
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 .images-feedback {
   margin: auto;
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
   display: flex;
   gap: 20px;
   height: 100px;
@@ -545,7 +545,7 @@ p {
 
 .index-photos {
   margin: auto;
-  border: 1px solid orange;
+  /* border: 1px solid orange; */
   /* width: 100px; */
   /* height: 70px; */
   /* position: relative; */
@@ -558,7 +558,7 @@ p {
 }
 
 .customers-feedback {
-  border: 1px solid green;
+  /* border: 1px solid green; */
   margin: auto;
   display: flex;
   flex-direction: column;
@@ -572,7 +572,7 @@ p {
 }
 
 .catering-grid {
-  border: 1px solid green;
+  /* border: 1px solid green; */
   display: grid;
   text-align: center;
   margin: 0 auto;
@@ -583,7 +583,7 @@ p {
 }
 
 .hot-bowl {
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
   border-radius: 20px;
   background-color: white;
   width: 180px;
@@ -599,7 +599,7 @@ p {
 .grid-icon {
   width: 180px;
   height: 80px;
-  border: 1px solid purple;
+  /* border: 1px solid purple; */
 }
 
 .grid-icon i {
@@ -615,7 +615,7 @@ p {
 
 .write-up {
   color: var(--constant-accents);
-  border: 1px solid purple;
+  /* border: 1px solid purple; */
 }
 
 .write-up p {
@@ -627,7 +627,7 @@ p {
 }
 
 .footer-sushi {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   height: 70px;
   gap: 40px;
 }
@@ -664,7 +664,7 @@ p {
   flex-direction: column;
   text-align: center;
   align-items: center;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   width: 200px;
   /* height: 180px; */
   box-shadow: 0px 8px 16px 0 rgb(0, 0, 0, 0.2);
@@ -683,7 +683,7 @@ p {
   align-items: center;
   height: 60%;
   width: 100%;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   width: 80px;
   height: 80px;
   border-radius: 50px;
@@ -696,7 +696,7 @@ p {
   padding: 10px;
   margin-top: 10px;
   margin: auto;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   width: 80px;
   height: 80px;
   border-radius: 50px;
@@ -713,7 +713,7 @@ p {
 } */
 
 .main-dish {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   font-weight: 20px;
   font-family: var(--common-font-family);
   font-size: 18px;
